@@ -28,7 +28,7 @@ Which editor can be worse than windows notepad? **None!** But this one is defini
     https://www.rizonesoft.com/introducing-notepad3/
 
 
-## Windows icon Windows Sysinternals - a suite of advanced system utilities tools
+## Windows Sysinternals - a suite of advanced system utilities tools
 This contains some very useful tools to control Windows system, a typical one: process monitor.
 
     https://docs.microsoft.com/en-us/sysinternals/

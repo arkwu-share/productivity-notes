@@ -55,3 +55,4 @@ this can be used to encrypt a folder with password in order to secure some sensi
 this can be used to extract some resources (like icon and image) from windows binary (exe / dll)
 
     http://www.angusj.com/resourcehacker/
+

@@ -6,4 +6,4 @@ It is aimed to help any PC users who want to increase their productivity of usin
 
 [Productivity Tools on Windows](tools_windows.md)
 
-[Plugins for b Windows](plugin_browser.md)
+[Plugins for Modern Browsers](plugin_browser.md)
